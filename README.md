@@ -72,7 +72,7 @@ Using **3D Pharmacophore Congruence**, we visualized the "Interaction Pivot." Th
 ---
 
 ## **7. Clinical Developability Scorecard (KPI Analysis)**
-The final candidate was audited against the **Property Forecast Index (PFI)**—the gold standard for predicting human PK survival ($PFI = LogP + \#Ar$).
+The final candidate was audited against the **Property Forecast Index (PFI)**—the gold standard for predicting human PK survival ($PFI = LogP + \Ar$).
 
 | Metric | Parent (Baseline) | Champion Lead | Clinical Target |
 | :--- | :--- | :--- | :--- |
